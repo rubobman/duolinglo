@@ -639,7 +639,7 @@ They sell rubles, dollars, and other currencies.Они продают рубли
 This month, I have decreased my credit card debt.В этом месяце я уменьшила свой долг по кредитке.
 Lately, he has been spending all his free time with his sons.В последнее время он проводит всё своё свободное время со своими сыновьями.
 This toy sells very well.Эта игрушка продаётся очень хорошо.
-Sher has a bank account.У неё есть банковский счёт.
+She has a bank account.У неё есть банковский счёт.
 This is sixty percent of our budget.Это - шестьдесят процентов от нашего бюджета.
 Is this cheap or expensive.Это дёшево или дорого?
 The current exchange rate is less than two cents for one ruble.Текущий обменный курс - меньше двух центов за один рубль.
@@ -652,3 +652,7 @@ He sells nothing there.Он ничего не продаёт там.
 We don't sell our cats, we give them away for free.Мы не продаём наших кошек, мы отдаём их бесплатно.
 This toy sells very well.Эта игрушка продаётся очень хорошо.
 There is nothing more interesting than to count money.Нет ничего интереснее, чем считать деньги.
+I have been selling currencies for six years.Я торгую валютами уже шесть лет.
+They buy any currency.Они покупают любую валюту.
+You should ask for a better price.Тебе следует попросить получше цену.
+I have an account at that bank.У меня есть счёт в том банке.
