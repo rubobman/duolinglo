@@ -666,7 +666,7 @@ She will not come unless he asks her.Она не придёт, если толь
 If you wait here, he will come and call you.Если вы подождёте здесь, то он придёт и позовёт вас.
 If your uncle comes tomorrow, we will watch a movie together.
 If the teacher allows us, we will all go home.Если учитель разрешит нам, мы все пойдём домой.
-When you see her next time, do not wait too long, say something!
+When you see her next time, do not wait too long, say something!Когда ты увидишься с ней в следующий раз, не жди слишком долго, скажи что-нибудь!
 If she becomes an actress, she will watch a lot of movies.Если она станет актрисой, она будет смотреть много фильмов.
 We can get married only if his family allows that.Мы можем пожениться, только если его семья позволит это.
 I will tell him to call you when he comes home.
@@ -675,3 +675,5 @@ I am not going to help them unless they pay me well.Я не собираюсь �
 We will watch it together when your sister comes home.Мы посмотрим его вместе, когда твоя сестра придёт домой.
 I can talk to your husband if he comes.Я могу поговорить с твоим мужем, если он придёт.
 If he asks you before he asks me, do not answer!Если он спросит тебя до того, как он спросит меня, не отвечай!
+My nephew will not wait if you do not come on time.
+We can get married only if his family allows that.
