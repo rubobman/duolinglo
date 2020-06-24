@@ -684,7 +684,7 @@ When she asks you about me, tell her that I am not at home.Когда она с�
 Their debt will increase if they do nothing.Их долг увеличится, если они ничего не сделают.
 --53Would
 I hoped that they would allow me.Я надеялась, что они позволят мне.
-I did not expect that he would help.
+I did not expect that he would help.Я не ожидала, что он поможет.
 If I could, I would decrease the price for you, but I can't.Если бы я мог, я бы понизил цену для вас, но я не могу.
 I would not like to be his friend.Мне бы не хотелось быть его другом.
 That would decrease all the prices at once.Это бы понизило все цены одновременно.
@@ -693,7 +693,7 @@ I would increase his salary if he worked better.Я бы повысил его з
 If I could, I would decrease the price for you, but I can't.Если бы я мог, я бы понизил цену для вас, но я не могу.
 We did not expect that the toy would be so expensive.Мы не ожидали, что игрушка будет такой дорогой.
 If we had more money, we would increase our savings.Если бы у нас было больше денег, мы бы увеличили наши сбережения.
-My parents hoped that we would become friends.
+My parents hoped that we would become friends.Мои родители надеялись, что мы станем друзьями.
 I would not like to be his friend.Мне бы не хотелось быть его другом.
 I would like to ask him two questions.Я бы хотел задать ему два вопроса.
 That would mean that they loved each other.Это бы означало, что они любили друг друга.
@@ -707,3 +707,4 @@ Would you like to go there with me?Ты бы хотела пойти туда с
 She didn't expect that I would come.Она не ожидала, что я приду.
 That would decrease his chances.Это бы понизило его шансы.
 If salaries increased, prices would increase too.Если бы зарплаты увеличились, цены бы увеличились тоже.
+She believed that the new salary would allow her to buy a house.Она верила, что новая зарплата позволит ей купить дом.
