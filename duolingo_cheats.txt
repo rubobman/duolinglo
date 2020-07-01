@@ -729,7 +729,7 @@ Singing quietly, she made us tea.Напевая тихо, она сделала 
 Soup made with love is always better.Суп, приготовленный с любовью, - всегда лучше.
 How is she going to spend her increased salary?Как она собирается потратить свою выросшую зарплату?
 We found an increased number of blue birds there.Мы нашли там возросшее число синих птиц.
-The increased fines will help us get more money.
+The increased fines will help us get more money.Увеличенные штрафы помогут нам получить больше денег.
 We spent seventy percent of our budget building it.Мы потратили семьдесят процентов нашего бюджета, строя его.
 Asking for help, do not forget that no one has to help you.Прося о помощи, не забывайте, что никто не обязан помогать вам.
 The increased fines will help us get more money.Увеличенные штрафы помогут нам получить больше денег.
@@ -737,3 +737,4 @@ A decreased debt is still a debt.Уменьшенный долг - всё рав
 Built in eighteen ninety-six our school is still the biggest.Построенная в тысяча восемьсот девяносто шестом, наша школа является всё ещё самой большой.
 All phones made last year are already sold.Все телефоны, изготовленные в прошлом году, - уже проданы.
 An increasing number of people pay all the taxes which they must pay.Растущее число людей платят все те налоги, которые они должны платить.
+We spent seventy percent of our budget building it.Мы потратили семьдесят процентов нашего бюджета, строя его.
