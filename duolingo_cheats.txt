@@ -756,7 +756,7 @@ She is already married to another man.Она уже замужем за друг
 Her ex-husband never believed in himself.Ее бывший муж никогда не верил в себя
 --56Numerals
 First divide it by ten and then multiply by seven.Сперва раздели его на десять, а затем умножь на семь.
-But it means that we will spend two-thirds of our budget.
+But it means that we will spend two-thirds of our budget.Но это значит, что мы потратим две трети нашего бюджета.
 September is the ninth month of the year.Сентябрь - девятый месяц года.
 October is the tenth month of the year.Октябрь - десятый месяц года.
 I have a few interesting books, I will give you one or two.У меня есть несколько интересных книг, я дам тебе одну или две.
@@ -780,16 +780,21 @@ His seventh email was not written in Russian.Его седьмой имейл н
 He subtracted sixteen from eighty nine.
 This message is for both of you.Это сообщение - для вас обоих.
 We can't take the third mortgage.
-She came ninth and I came tenth.
+She came ninth and I came tenth.Она пришла девятой, а я пришёл десятым.
 Billions of messages are sent weekly.Миллиарды сообщений отправляются еженедельно.
 She has too few friends, she needs to find more.У неё слишком мало друзей, ей нужно найти больше.
 There are fewer men than women in my family.В моей семье меньше мужчин, чем женщин.
-Вычти любое нечётное число из любого чётного числа.
+Subtract any odd number from any even number.Вычти любое нечётное число из любого чётного числа.
 One-tenth of a minute is six seconds.Одна десятая минуты - шесть секунд.
+The house was divided into six rooms.Дом был разделён на шесть комнат.
 I was their ninth child.
 She gave two-thirds of the money to me and one-third to my brother.
 in the second decade of our century
 What is the name of your fourth child?
-Две трети - больше, чем половина.
+two-thirds is more than a half.Две трети - больше, чем половина.
 Дом был разделён на шесть комнат.
 Это будет его двадцатая книга.
+Few people want to buy a horse, even fewer have enough money.
+Суббота - шестой день недели.
+She was born on September twentieth.Она родилась двадцатого сентября
+He was born in winter, on February twenty-eighth.Он родился зимой двадцать восьмого февраля
