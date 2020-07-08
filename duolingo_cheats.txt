@@ -764,7 +764,7 @@ Yesterday, we multiplied and divided only odd numbers.Вчера мы перем
 in the second decade of our century.во втором десятилетии нашего века
 I was born on August twenty-eighth in the evening.Я родился двадцать восьмого августа вечером.
 The third apple is red.Третье яблоко - красное.
-I will be free on July twentieth.
+I will be free on July twentieth.Я буду свободен двадцатого июля.
 They spent a billion dollars last year.Они потратили миллиард долларов в прошлом году.
 If you add two odd numbers, you will get an even number.Если ты сложишь два нечётных числа, ты получишь чётное число.
 Both toys were made by my uncle.Обе игрушки были сделаны моим дядей.
@@ -777,7 +777,7 @@ He subtracted sixteen from eighty nine.Он вычел шестнадцать и
 It will cost us billions of rubles.Это будет стоить нам миллиарды рублей.
 February is the second month of the year.Февраль - второй месяц года.
 His seventh email was not written in Russian.Его седьмой имейл не был написан на русском.
-He subtracted sixteen from eighty nine.
+He subtracted sixteen from eighty nine.Он вычел шестнадцать из восьмидесяти девяти
 This message is for both of you.Это сообщение - для вас обоих.
 We can't take the third mortgage.
 She came ninth and I came tenth.Она пришла девятой, а я пришёл десятым.
@@ -788,11 +788,11 @@ Subtract any odd number from any even number.Вычти любое нечётн�
 One-tenth of a minute is six seconds.Одна десятая минуты - шесть секунд.
 The house was divided into six rooms.Дом был разделён на шесть комнат.
 I was their ninth child.
-She gave two-thirds of the money to me and one-third to my brother.
-in the second decade of our century
+She gave two-thirds of the money to me and one-third to my brother.Она дала две трети денег мне и одну треть моему брату.
+in the second decade of our century.во втором десятилетии нашего века
 What is the name of your fourth child?
 two-thirds is more than a half.Две трети - больше, чем половина.
-Дом был разделён на шесть комнат.
+The house was divided into six rooms.Дом был разделён на шесть комнат.
 Это будет его двадцатая книга.
 Few people want to buy a horse, even fewer have enough money.Мало людей хотят купить лошадь, ещё меньше имеют достаточно денег.
 Saturday is the sixth day of the week.Суббота - шестой день недели.
@@ -803,3 +803,9 @@ He is my third son.Он мой третий сын
 Yes i know them both.Да, я знаю их обеих.
 It will be his twentith book.Это будет его двадцатая книга.
 Thursday is the fourth day of the week.Четверг - четвёртый день недели.
+April is the fourth month of the year.Апрель - четвёртый месяц года.
+He lives in the sixth house.Он живёт в шестом доме.
+Half of them did not even answer.Половина из них даже не ответили.
+Do you know both girls.Ты знаешь обеих девочек?
+Multiply your answer by any even number.Умножьте ваш ответ на любое чётное число.
+August is the eighth month of the year.Август - восьмой месяц года.
