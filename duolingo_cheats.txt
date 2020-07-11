@@ -817,7 +817,7 @@ We all like to spend time among our friends.
 I am looking for my friends.Я ищу своих друзей.
 Turn around!Обернись вокруг!
 Look into my eyes!Посмотри мне в глаза!
-Among all our rules, this one is the most important.
+Among all our rules, this one is the most important.Среди всех наших правил это является наиболее важным.
 He lives near the school.Он живёт рядом со школой.
 She first looked toward the door, then toward the window.
 Have you ever played against him?Ты когда-нибудь играл против него?
@@ -825,7 +825,7 @@ She drinks coffee without sugar.
 She got up earlier today to come on time.Она встала пораньше сегодня, чтобы прийти вовремя.
 He kept something small under his hand.Он держал что-то маленькое под своей рукой.
 I ate nothing between lunch and dinner.Я не ел ничего между обедом и ужином.
-Look into my eyes!
+Look into my eyes!Посмотри мне в глаза!
 She turned away from him and ran across the street.Она отвернулась от него и побежала через улицу.
 We will read after dinner, before they go to sleep.
 They never talk during meals.Они никогда не разговаривают во время приёмов пищи.
@@ -839,10 +839,15 @@ Did she eat anything between breakfast and lunch?
 She first looked toward the door, then toward the window.Она сперва посмотрела в сторону двери, затем в сторону окна.
 Look  at me!Посмотри на меня!
 His hands were behind his back.Его руки были за его спиной.
-Её брат вошёл в воду.
+Her brother went into the water.Её брат вошёл в воду.
 Do you think we should turn back?Ты думаешь, что нам следует повернуть обратно?
-Собаки медленно обошли вокруг меня.
+The dogs slowly walked around me.Собаки медленно обошли вокруг меня.
 Это - цена без налогов.
+The price is up to you.Цена на твое усмотрение.
+My friends are looking for me.Мои друзья ищут меня.
+I drink coffee without milk.Я пью кофе без молока
+Among those letters, I found one from my sister.Среди этих писем я нашел одно от моей сестры
+She looked out the window but saw nothing interesting.Она выглянула в окно, но не увидела ничего интересного.
 Among all our rules, this one is the most important.Среди всех наших правил это является наиболее важным.
 Я помогу тебе с твоим домашним заданием после ужина.
 We all like to spend time among our friends.Мы все любим проводить время среди своих друзей.
