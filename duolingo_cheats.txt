@@ -831,7 +831,7 @@ We will read after dinner, before they go to sleep.Мы почитаем пос�
 They never talk during meals.Они никогда не разговаривают во время приёмов пищи.
 I found it near my house.I found it near my house.
 Many animals sleep during winter.Многие животные спят зимой.
-He is a good man, I have nothing against him.Он хороший человек, я не имею ничего против него.
+He is a good man, I have nothing against him.Он хороший человек, я не имею ничего него.
 She got up earlier today to come on time.
 We walked between some old houses.
 He walked across the street and turned home.Он перешёл через улицу и повернул домой.
@@ -859,3 +859,6 @@ Have you ever played against him.Ты когда-нибудь играл про�
 Look around you do you see any friends.Посмотри вокруг себя! Ты видишь каких-нибудь друзей?
 I am not going to work all day without lunch.Я не собираюсь работать весь день без обеда.
 She turned back and saw me.Она повернула назад и увидела меня.
+I usually get up at six in the morning.Я обычно встаю в шесть утра.
+Then we were children we loved to play near the river.Когда мы были детьми, мы обожали играть возле реки.
+They are either with us or against us.Они - либо с нами, либо против нас.
