@@ -866,7 +866,7 @@ They are either with us or against us.Они - либо с нами, либо п
 I have brought some meat, let's make lunch.Я принёс немного мяса, давай приготовим обед.
 I want to win again.Я снова хочу выиграть.
 He showed her his hat.Он показал ей свою шапку.
-What is she learning?
+What is she learning?Что она учит?
 If that woman wins again, we will stop playing.Если та женщина выиграет снова, мы прекратим играть.
 He is standing between you and me.Он стоит между тобой и мной.
 Could you hold the door, please?Не могли бы вы подержать дверь, пожалуйста?
@@ -883,3 +883,15 @@ Has he already begun?Он уже начал?
 She can't get used to being a married woman.Она не может привыкнуть быть замужней женщиной.
 He has won twice in the last three years.Он победил дважды за последние три года.
 The woman is putting on a hat.Женщина надевает шляпу.
+The mother holds her child.Мать держит своего ребенка.
+He has never shown me this room.Он никогда не показывал мне эту комнату.
+Hold my hand.Держи мою руку.
+She gives him her book.Она даёт ему свою книгу.
+Do you keep dogs?Ты держишь собак?
+The woman puts on a hat.Женщина надевает шляпу.
+Has he already begun.Он уже начал?
+He holds his daughter.Он держит свою дочь.
+Get used to it, Tom.Привыкай к этому, Том.
+Where did they put my toys?Куда они положили мои игрушки?
+Do you think that they will win?Ты думаешь, что они выиграют?
+
