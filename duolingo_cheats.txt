@@ -888,7 +888,7 @@ He has never shown me this room.Он никогда не показывал мн
 Hold my hand.Держи мою руку.
 She gives him her book.Она даёт ему свою книгу.
 Do you keep dogs?Ты держишь собак?
-The woman puts on a hat.Женщина надевает шляпу.
+The woman is putting on a hat.Женщина надевает шляпу.
 Has he already begun.Он уже начал?
 He holds his daughter.He is holding his daughter.Он держит свою дочь.
 Get used to it, Tom.Привыкай к этому, Том.
@@ -903,4 +903,5 @@ He gives me his hat.Он даёт мне свою шляпу.
 She should put her money into a bank account.Ей следует положить свои деньги на банковский счёт.
 I have not given them my answer yet.Я не дал им свой ответ ещё.
 They will have to get used to that small room.Им придётся привыкнуть к той маленькой комнате.
+I lost my voice yesterday.Я потеряла свой голос вчера.
 
