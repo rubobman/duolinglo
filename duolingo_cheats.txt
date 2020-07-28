@@ -985,3 +985,17 @@ In a corner.В углу
 I have a receipt.У меня есть чек.
 Where is the sponge?Где губка?
 Have you bought candles?Ты купил свечи?
+They pay for the beverages.Они платят за напитки.
+The kite is red and white.Воздушный змей красный и белый.
+I have a yellow sponge.У меня есть жёлтая губка.
+Have you ever eaten a crab?Ты ел когда-нибудь краба?
+My suitcase is there.Мой чемодан там.
+The number is the same for every circle.Число одинаково для каждого круга.
+This puts your health in danger.Это ставит ваше здоровье в опасность.
+The shop is on the corner of the street.Этот магазин на углу улицы.
+We have a party tomorrow evening.У нас вечеринка завтра вечером.
+I would like sausages with hot sauce.Я бы хотела сосиски с острым соусом.
+They did not give me the receipt.Они не дали мне чек.
+I am a man of science.Я человек науки.
+Every country has its own history.Каждая страна имеет свою собственную историю.
+
