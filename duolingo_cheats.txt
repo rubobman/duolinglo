@@ -1097,4 +1097,4 @@ The small bottle is four ounces and the big bottle is eight.Маленькая �
 She cooked me fish.Она готовила мне рыбу.
 Here are the berries for the fruit salad.Вот ягоды для фруктового салата.
 The taste will be better if she adds two teaspoons of sugar.Вкус будет лучше, если она добавит две чайные ложки сахара.
-Is the milk sour.То молоко кислое?
+Is the milk sour.Это молоко кислое?
