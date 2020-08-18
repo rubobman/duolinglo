@@ -1102,3 +1102,24 @@ Add one tablespoon at a time.Добавляй по одной столовой �
 I eat nuts.Я ем орехи.
 They drink two galons of milk a week.Они выпивают два галлона молока в неделю.
 Is the meat tasty?Мясо вкусное?
+--66Clothes2
+My shirt has long sleeves.У моей рубашки длинные рукава.
+It was a good skirt but it wrinkled very easily.Это была хорошая юбка, но она мялась очень легко.
+Do you know how to iron silk shirts?Ты знаешь как гладить шёлковые рубашки?
+Her black dress is expensive.Её чёрное платье - дорогое.
+We never wear fur coats here.Мы никогда не носим шубы здесь.
+These pants are made of wool.Эти брюки изготовлены из шерсти.
+She is wearing a skirt.Она одета в юбку.
+We are not required to wear ties at work.От нас не требуется носить галстуки на работе.
+This is my second shoe.Это моя вторая туфля.
+Silk is more expensive than cotton.Шёлк дороже, чем хлопок.
+Her pants are orange.Её штаны оранжевые.
+Local women wear black dresses.Местные женщины носят чёрные платья.
+When did she buy this scarf?Когда она купила этот шарф?
+My wife bought me a silk tie.Моя жена купила мне шёлковый галстук.
+A lot of men used to wear gloves.Много мужчин раньше носили перчатки.
+I lost my left glove.Я потеряла свою левую перчатку.
+We wear clothes so as not to be naked.Мы носим одежду, чтобы не быть голыми.
+Slippers and boots are shoes.Тапки и сапоги это обувь.
+She wore a snowy white coat.Она носила снежно белое пальто.
+Buy mittens if you are going to Russia in the winter.Купи рукавицы, если ты едешь в Россию зимой.
