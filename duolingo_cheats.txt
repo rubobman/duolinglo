@@ -1111,7 +1111,8 @@ We never wear fur coats here.Мы никогда не носим шубы зде
 These pants are made of wool.Эти брюки изготовлены из шерсти.
 She is wearing a skirt.Она одета в юбку.
 We are not required to wear ties at work.От нас не требуется носить галстуки на работе.
-This is my second shoe.Это моя вторая туфля.
+This is my second shoe.
+These teenagers like wearing red and yellow socks.Те подростки любят носить красные и жёлтые носки.
 Silk is more expensive than cotton.Шёлк дороже, чем хлопок.
 Her pants are orange.Её штаны оранжевые.
 Local women wear black dresses.Местные женщины носят чёрные платья.
@@ -1143,3 +1144,16 @@ They wear white dresses.Они носят белые платья.
 I am so happy because i did not lose my scarf.Я так рад, потому что я не потерял свой шарф!
 Do you have mittens.У тебя есть рукавицы?
 That wool jacket is very warm.Та шерстяная куртка - очень тёплая.
+Is it cotton?Это хлопок?
+I put on my clothes and went outside.Я надел свою одежду и пошёл на улицу.
+This dress is not for sale.Это платье не для продажи
+You have enough pink dresses.У тебя достаточно розовых платьев!
+She buys the boots.Она покупает эти сапоги.
+Are these your pants?Это твои штаны?
+Her slippers were made of leather.Её тапочки были изготовлены из кожи.
+A tie is required for such a meeting.Галстук обязателен для такой встречи.
+She is wearing a blue dress.На ней надето синее платье.
+How can I wash the silk shirt?Как я могу постирать шёлковую рубашку?
+I don't remember when I put on my tie last.Я не помню, когда я надевал свой галстук в последний раз.
+Are your pants ironed?Твои брюки поглажены?
+He is walking naked.Он гуляет голым.
