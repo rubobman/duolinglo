@@ -1167,7 +1167,7 @@ That is my own sofa.Это - мой собственный диван.
 I will make shelves next to the window.Я сделаю полки возле окна.
 The color of this carpet goes well with these curtains.Цвет этого ковра подходит хорошо к этим шторам.
 Somebody broke their fence.Кто-то сломал их забор.
-Where is the garage?"Где гараж?
+Where is the garage?Где гараж?
 I like living in an apartment.Мне нравится жить в квартире.
 I stand on the ground.Я стою на земле.
 The cups are on that shelf.Чашки на той полке.
@@ -1192,3 +1192,9 @@ I am on the first floor.Я на первом этаже.
 How much is this sofa?Сколько стоит этот диван?
 The color of this carpet goes well with these curtains.Цвет этого ковра подходит хорошо к этим шторам.
 Why is the breakfast on the ground?Почему завтрак на земле?
+My house has no roof.У моего дома нет крыши.
+She saw herself in the mirror.Она увидела себя в зеркале.
+The toilet is blue.Унитаз синий.
+The area of the house.Площадь этого дома
+One of the apples fell to the ground.Одно из яблок упало на землю.
+The cups are on that shelf.Чашки на той полке.
