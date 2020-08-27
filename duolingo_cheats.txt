@@ -1171,7 +1171,7 @@ Where is the garage?Где гараж?
 I like living in an apartment.Мне нравится жить в квартире.
 I stand on the ground.Я стою на земле.
 The cups are on that shelf.Чашки на той полке.
-Apartments in this city are expensive.Квартиры в этом городе дорогие.
+The apartments in this city are expensive.Квартиры в этом городе дорогие.
 That chair is too small.Тот стул слишком маленький.
 The area of this house is two hundred square yards.Площадь этого дома - двести квадратных ярдов.
 We are on the roof.Мы находимся на этой крыше.
@@ -1198,3 +1198,8 @@ The toilet is blue.Унитаз синий.
 The area of the house.Площадь этого дома
 One of the apples fell to the ground.Одно из яблок упало на землю.
 The cups are on that shelf.Чашки на той полке.
+My grandmother has this furniture.У моей бабушки эта мебель.
+Where are the stairs?Где лестница?
+My cat is sleeping under the sofa.My cat is sleeping on the sofa
+We lived in this area fifteen years ago.Мы жили в этой местности пятнадцать лет назад.
+My apartment has four bedrooms.В моей квартире есть четыре спальни.
