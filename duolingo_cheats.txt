@@ -1203,3 +1203,6 @@ Where are the stairs?Где лестница?
 My cat is sleeping under the sofa.My cat is sleeping on the sofa
 We lived in this area fifteen years ago.Мы жили в этой местности пятнадцать лет назад.
 My apartment has four bedrooms.В моей квартире есть четыре спальни.
+This is a roof.Это крыша.
+The garage is not big enough for their car.Гараж недостаточно большой для их автомобиля.
+I work on this floor.Я работаю на этом этаже.
