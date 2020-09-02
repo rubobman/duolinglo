@@ -1214,7 +1214,7 @@ At least your back and your arms are not so hairy.По крайней мере �
 I still don't have any wrinkles.У меня всё ещё нет каких-либо морщин.
 The silver necklace looks good with her dress.Серебряное ожерелье выглядит хорошо с её платьем.
 Which cow is fatter?Какая корова более толстая?
-These are fatty oils.
+These are fatty oils.Это жирные масла.
 A woman sold two gold rings yesterday.Женщина продала два золотых кольца вчера.
 They told me they would pierce my lip quickly.Они сказали мне, они проколют мою губу быстро.
 These are jaws.Это челюсти.
@@ -1242,3 +1242,6 @@ He has a big jaw.У него большая челюсть.
 My parents are against the idea of a pierced nose.Мои родители против идеи проколотого носа.
 His arms are short.Его руки - короткие.
 She has long nails.У неё длинные ногти.
+Where is my brain.Где мой мозг?
+Your lips are very red.Твои губы очень красные.
+Nobody took your gold necklace.Никто не брал ваше золотое ожерелье.
