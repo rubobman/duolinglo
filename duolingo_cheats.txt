@@ -1297,3 +1297,24 @@ Corn is not always yellow.Кукуруза не всегда жёлтая.
 All ham is pork, but not all pork is ham.Всякая ветчина - свинина, но не всякая свинина - ветчина.
 Look, Tom is eating our candies!Посмотри, Том ест наши конфеты!
 Fried garlic adds a bitter taste to the rice.Жареный чеснок добавляет горький вкус рису.
+--70Plants
+Nothing grows in this soil.Ничто не растёт в этой почве.
+These are weeds.Это сорняки.
+I water the flowers.Я поливаю цветы.
+You and I will walk in the park if there are not many people.Ты и я будем гулять в парке, если там не будет много людей.
+We cut down the old tree last summer.Мы срубили то старое дерево прошлым летом.
+What root vegetables do you know?Какие корнеплоды вы знаете?
+Is this a seed?Это семя?
+Trees cannot grow on rocks.Деревья не могут расти на камнях.
+Have you already watered the flowers?Ты уже полил цветы?
+The bush is blooming.Куст цветёт.
+I don't know why their bushes don't bloom.Я не знаю, почему их кусты не цветут.
+My sister is watering the trees.Моя сестра поливает деревья.
+That forest is old and dead, don't go there!Тот лес - старый и мёртвый, не ходи туда!
+Do not mix fresh and dried flowers together.Не смешивай свежие и высушенные цветы вместе.
+I got lost in this big dark forest!Я заблудился в этом большом тёмном лесу!
+I have soil for the plants.У меня есть почва для этих растений.
+The weeds grow faster than the lawn.Сорняки растут быстрее, чем газон.
+Her flowers grow fast.Её цветы растут быстро.
+The birds eat seeds.Птицы едят семена.
+Why is there no grass under this tall tree?Почему под этим высоким деревом нет травы?
