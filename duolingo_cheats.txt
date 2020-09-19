@@ -1398,3 +1398,24 @@ I gained weight recently.Я набрал вес недавно.
 I cannot sleep when my baby is crying.Я не могу спать, когда мой ребёнок плачет.
 Woman have the right to take up two twelve month of maternity leave.Женщины имеют право брать до двенадцати месяцев декретного отпуска.
 If there is nothing else, she will chew on her pacifier.Если нет ничего другого, она будет грызть свою соску.
+--72Health
+What is your height?Какой у тебя рост?
+He has no health insurance.У него нет медицинской страховки.
+I never lose my prescriptions.Я никогда не теряю мои рецепты.
+I thought you were a doctor.Я думал, что ты был доктором.
+The headache and the fever might be symptoms of the flu.Головная боль и температура могут быть симптомами гриппа
+It is for the blind people.Это для слепых людей.
+His mother is a nurse.Его мать медсестра.
+I don't like surgeries.Мне не нравятся операции.
+I think that his nephew is deaf.Я думаю, что его племянник глухой.
+Do not drink anything including water.Не пейте ничего, включая воду.
+My physician told me that that vaccination is very important.Мой врач сказал мне, что та прививка очень важна.
+Here is your prescription.Вот ваш рецепт.
+My physician has already told me that I have this disease.Мой врач уже сказал мне, что у меня эта болезнь.
+My sister is on sick leave now.Моя сестра на больничном сейчас.
+Does she have nausea?У неё есть тошнота?
+I always tell you that you have to give up smoking.Я всегда говорю тебе, что ты должен бросить курить.
+The medicines that you prescribed have no effect.Лекарства, которые вы прописали, не имеют никакого эффекта.
+My head hurts when I read.Моя голова болит, когда я читаю.
+The cough can be a symptom of many different diseases.Кашель может быть симптомом многих различных заболеваний.
+It is so bad that a lot of people do not have the vaccinations.Это так плохо, что у многих людей нет прививок.
