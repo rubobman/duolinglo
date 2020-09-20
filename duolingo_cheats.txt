@@ -1419,3 +1419,14 @@ The medicines that you prescribed have no effect.Лекарства, котор�
 My head hurts when I read.Моя голова болит, когда я читаю.
 The cough can be a symptom of many different diseases.Кашель может быть симптомом многих различных заболеваний.
 It is so bad that a lot of people do not have the vaccinations.Это так плохо, что у многих людей нет прививок.
+The medicines that you prescribed have no effect.Лекарства, которые вы прописали, не имеют никакого эффекта.
+He is a nurse.Он медбрат.
+Deaf people can work here too.Глухие люди могут работать здесь тоже.
+Every month we write down the height of the children.Каждый месяц мы записываем рост детей.
+Why do you never have the flu?Почему у тебя никогда нет гриппа?
+My leg hurts.Моя нога болит.
+Does she have health insurance?У неё есть медицинская страховка?
+Can you help this blind man?Вы можете помочь этому слепому мужчине?
+She thinks that she can give up smoking easily.Она думает, что она может бросить курить легко.
+We do not sell this medicine without a prescription.Мы не продаём это лекарство без рецепта.
+
