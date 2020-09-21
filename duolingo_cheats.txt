@@ -1429,4 +1429,8 @@ Does she have health insurance?У неё есть медицинская стр�
 Can you help this blind man?Вы можете помочь этому слепому мужчине?
 She thinks that she can give up smoking easily.Она думает, что она может бросить курить легко.
 We do not sell this medicine without a prescription.Мы не продаём это лекарство без рецепта.
-
+I have to know your height.Я должен знать ваш рост.
+He always has nausea when he is in a car for a long time.У него всегда тошнота, когда он находится в машине долго.
+My physician has already told me that I have this disease.Мой врач уже сказал мне, что у меня эта болезнь.
+They called a doctor.Они звонили доктору.
+We cannot help you because you have no health insurance.Мы не можем помочь вам, потому что у вас нет медицинской страховки.
