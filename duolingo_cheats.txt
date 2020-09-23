@@ -1441,3 +1441,4 @@ This medicine is for nausea.Это лекарство от тошноты
 He will never give up smoking.Он никогда не бросит курить.
 Does she have health insurance.У неё есть медицинская страховка?
 It is for the blind people.Это для слепых людей.
+I want to be a nurse.Я хочу быть медсестрой.
