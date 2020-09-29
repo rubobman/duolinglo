@@ -1474,3 +1474,4 @@ The boy talks to the dolphin.Мальчик говорит с дельфином
 Please do not feed the deer.Пожалуйста, не кормите оленя.
 Bears are dangerous predators.Медведи опасные хищники 
 The bear is from Canada.Медведь из Канады.
+A quarter of our deer feel bad.Четверть наших оленей чувствуют себя плохо.
