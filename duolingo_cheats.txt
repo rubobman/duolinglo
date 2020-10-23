@@ -1641,7 +1641,7 @@ No, this meal is for the queens.Нет, эта еда для королев.
 We were not enemies.Мы не были врагами.
 They are partners in business.Они партнёры в бизнесе.
 Мы продадим квартиру любому, у кого есть достаточно денег.
-The king's first daughter was gifted by nature.
+The king's first daughter was gifted by nature.Первая дочь короля была одарённой от природы.
 Those people have always been our enemies.Те люди всегда были нашими врагами.
 Whoever your father is, you are not allowed to go here.Кем бы ни был твой отец, тебе нельзя идти сюда.
 Yes I am a prince.Да, я - принц.
@@ -1656,3 +1656,8 @@ The king wanted to support human rights.Король хотел поддержи
 He is the leader of the century.Он лидер столетия
 Naturally, we are good friends.естественно мы хорошие друзья
 Each group has three members.Каждая группа имеет трёх членов.
+They are partners in business.Они партнёры в бизнесе.
+I don't like talking to suspects.Мне не нравится разговаривать с подозреваемыми.
+the team has twenty members.В команде двадцать членов.
+The prince listens to the king.Этот принц слушает этого короля.
+He is a strong leader.Он - сильный лидер.
