@@ -1644,9 +1644,8 @@ They are partners in business.Они партнёры в бизнесе.
 The king's first daughter was gifted by nature.Первая дочь короля была одарённой от природы.
 Those people have always been our enemies.Те люди всегда были нашими врагами.
 Whoever your father is, you are not allowed to go here.Кем бы ни был твой отец, тебе нельзя идти сюда.
-Yes I am a prince.Да, я - принц.
 The queen is young.Королева - молода.
-The king's first daughter was gifted by nature.
+The king's first daughter was gifted by nature.Первая дочь короля была одарённой от природы.
 She is helping the passenger.Она помогает этому пассажиру."
 We speak of our children, naturally.Мы говорим о наших детях, естественно.
 I am a big fan of her music.Я большая фанатка её музыки.
@@ -1661,3 +1660,7 @@ I don't like talking to suspects.Мне не нравится разговари
 the team has twenty members.В команде двадцать членов.
 The prince listens to the king.Этот принц слушает этого короля.
 He is a strong leader.Он - сильный лидер.
+Am I a suspect now.Я подозреваемый теперь?
+Are you a passenger?Вы пассажир?
+Ask the local people.Спроси местных людей.
+Why are you such a fan of that actor?Почему ты такой фанат того актёра?
