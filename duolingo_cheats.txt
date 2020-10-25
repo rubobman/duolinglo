@@ -1664,3 +1664,22 @@ Am I a suspect now.Я подозреваемый теперь?
 Are you a passenger?Вы пассажир?
 Ask the local people.Спроси местных людей.
 Why are you such a fan of that actor?Почему ты такой фанат того актёра?
+--80Adjectives2
+Sharks usually live in deep water.Акулы обычно живут в глубокой воде.
+It is the purest water in the world.Это самая чистая вода в мире.
+She is a very shy girl.Она очень застенчивая девочка.
+У неё музыкальный голос.She has a musical voice.
+This water is pure.Эта вода чистая.
+The worst thing about summer is the heat.Худшее в лете - это жара.
+There are still many difficulties.До сих пор есть много сложностей.
+There is a wide and shallow river near our house.Около нашего дома есть широкая и мелкая река.
+My friends are lucky.Мои друзья удачливые.
+You are too thin.Ты слишком худой.
+Is it serious?Это серьёзно?
+My father believes in the value of education.Мой отец верит в ценность образования.
+They are rich.Они богаты.
+Did you tell him that it was a risk?Ты говорил ему, что это был риск?
+Why can't you just work harder?Почему ты просто не можешь работать усерднее?
+I remember the still water of that river.Я помню тихую воду той реки.
+What is luck?Что есть удача?
+This is a difficult question.Это сложный вопрос.
