@@ -1668,7 +1668,7 @@ Why are you such a fan of that actor?Почему ты такой фанат т�
 Sharks usually live in deep water.Акулы обычно живут в глубокой воде.
 It is the purest water in the world.Это самая чистая вода в мире.
 She is a very shy girl.Она очень застенчивая девочка.
-У неё музыкальный голос.She has a musical voice.
+She has a musical voice.У неё музыкальный голос.
 This water is pure.Эта вода чистая.
 The worst thing about summer is the heat.Худшее в лете - это жара.
 There are still many difficulties.До сих пор есть много сложностей.
@@ -1696,3 +1696,7 @@ Was his life difficult?Была ли его жизнь трудной?
 Whales do not swim in such shallow water.Киты не плавают в такой мелкой воде.
 My brother takes a small risk.Мой брат берёт на себя маленький риск.
 Their dog is still alive.Их собака все еще жива.
+What is the value of that car?В чём ценность того автомобиля?
+Trains in Spain are very safe.Поезда в Испании очень безопасные.
+We like swimming in that shallow river.Нам нравится плавать в той мелкой реке.
+She likes summer heat.Ей нравится летняя жара.
