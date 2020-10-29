@@ -1700,3 +1700,4 @@ What is the value of that car?В чём ценность того автомоб
 Trains in Spain are very safe.Поезда в Испании очень безопасные.
 We like swimming in that shallow river.Нам нравится плавать в той мелкой реке.
 She likes summer heat.Ей нравится летняя жара.
+It is a musical piece.Это музыкальная пьеса.
