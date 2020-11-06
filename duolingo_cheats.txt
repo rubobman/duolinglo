@@ -1759,3 +1759,5 @@ Take a cab.Возьми такси.
 My driving license is in the glove box.Моё водительское удостоверение - в бардачке.
 Whom are you hiding in the trunk of your car?Кого ты прячешь в багажнике своей машины?
 There is always a traffic jam at rush hour in this street.На этой улице всегда пробка в час пик.
+A pedestrian heard a car signal.Пешеход услышал сигнал машины.
+I have a wheel and an engine.У меня есть колесо и двигатель.
