@@ -1762,3 +1762,4 @@ There is always a traffic jam at rush hour in this street.На этой улиц
 A pedestrian heard a car signal.Пешеход услышал сигнал машины.
 I have a wheel and an engine.У меня есть колесо и двигатель.
 He plased the bag into the trunk of his car.Он положил сумку в багажник своей машины.
+We can take a train or a cab.Мы можем поехать на поезде или на такси.
