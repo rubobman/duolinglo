@@ -1763,7 +1763,7 @@ A pedestrian heard a car signal.Пешеход услышал сигнал ма�
 I have a wheel and an engine.У меня есть колесо и двигатель.
 He plased the bag into the trunk of his car.Он положил сумку в багажник своей машины.
 We can take a train or a cab.Мы можем поехать на поезде или на такси.
---
+--85Cognition
 They decided not to mention him.Они решили не упоминать его.
 I ignored all the reminders.Я проигнорировал все напоминания.
 I would like to ask an obvious question.Я бы хотела задать очевидный вопрос.
@@ -1782,3 +1782,10 @@ My father taught me to read.Мой отец научил меня читать.
 Her fans are not familiar with her point of view.Её фанаты не знакомы с её точкой зрения.
 This goes against common sense.Это противоречит здравому смыслу.
 She compared me to a bear.Она сравнила меня с медведем.
+The local scientists are studying the human brain.Местные учёные изучают человеческий мозг.
+I've changed my mind.Я передумал.
+I didn't mention your name.Я не упоминала твоё имя.
+We had nothing in common.У нас не было ничего общего.
+She is not familiar with his works.Она не знакома с его работами.
+Teaching others is not always easy.Учить других - не всегда легко.
+I do not like his sense of humor.Мне не нравится его чувство юмора.
