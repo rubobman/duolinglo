@@ -1829,3 +1829,4 @@ This is my favorite holiday.Это мой любимый праздник.
 You have three wishes.У тебя есть три желания.
 I am not apologizing.Я не извиняюсь.
 That day i was tired.В тот день я был уставшим.
+Will you invite me to your wedding?Ты пригласишь меня на свою свадьбу?
