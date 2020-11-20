@@ -1830,3 +1830,17 @@ You have three wishes.У тебя есть три желания.
 I am not apologizing.Я не извиняюсь.
 That day i was tired.В тот день я был уставшим.
 Will you invite me to your wedding?Ты пригласишь меня на свою свадьбу?
+--88Goal
+Let me congratulate you on achieving your goal!Позволь мне поздравить тебя с достижением твоей цели!
+You have earned this reward!Вы заслужили эту награду!
+You have achieved your goal.Вы достигли своей цели.
+Yes, you deserve this praise!Да, ты заслуживаешь этой похвалы!
+You have earned this reward!Вы заслужили эту награду!
+Our hard work has been rewarded with your success.Наш тяжёлый труд был вознаграждён вашим успехом.
+You have deserved this success!Вы заслужили этот успех!
+All your efforts were worth it, my sincere congratulations!Все твои усилия стоили того, мои искренние поздравления!
+Your success is the best praise for our efforts.Ваш успех - лучшая похвала нашим усилиям.
+I heard you won, congratulations!Я слышал, ты выиграл, поздравляю!
+These are just first successful steps, you will achieve more!Это лишь первые успешные шаги, вы достигнете большего!
+Take the next step toward your goal and you will be rewarded.Сделай следующий шаг к своей цели и ты будешь вознаграждён.
+What is your next step?Какой твой следующий шаг?
