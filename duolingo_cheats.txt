@@ -1844,3 +1844,5 @@ I heard you won, congratulations!Я слышал, ты выиграл, позд�
 These are just first successful steps, you will achieve more!Это лишь первые успешные шаги, вы достигнете большего!
 Take the next step toward your goal and you will be rewarded.Сделай следующий шаг к своей цели и ты будешь вознаграждён.
 What is your next step?Какой твой следующий шаг?
+This success is the result of your efforts.Этот успех является результатом ваших усилий.
+Praise yourself, you deserve it!Похвалите себя, вы заслуживаете этого!
