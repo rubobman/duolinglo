@@ -276,6 +276,24 @@ My grandfather still walks and moves easily.
 My sister often walks home.Моя сестра часто ходит пешком домой.
 Как часто вы ходите пешком?
 i speak russian but only slowly/Я говорю по-русски, но только медленно.
+--34PastSimpleIrregularVerbs
+She slept well yestarday.Она поспала хорошо вчера
+Yes, I read about it two days ago.Да, я читал об этом два дня назад.
+We had a burd but it flew away.У нас была птица, но она улетела.
+She had to be there twenty minutes ago.Она должна была быть там двадцать минут назад.
+He read seven books last week.Он прочитал семь книг на прошлой неделе.
+I had to ask for help.Я должна была попросить о помощи.
+They became parents.Они стали родителями.
+We run yestarday.Мы бегали вчера.
+I thought about it yesterday.Я думал об этом вчера.
+She became my wife fifteen years ago.Она стала моей женой пятнадцать лет назад.
+I ran last week.Я бегала на прошлой неделе.
+We often swem together.Мы часто плавали вместе.
+He arrived last week but flew home yestarday.Он прибыл на прошлой неделе, но улетел домой вчера.
+Last month he became a father.В прошлом месяце он стал отцом.
+Our cat ran away.Наша кошка убежала.
+I had twelve burds but three of them flew away.У меня было двенадцать птиц, но три из них улетели.
+Yes I read about it two days ago.Да, я читал об этом два дня назад.
 
 --37BusinessEmails
 He has a long email address.У него длинный адрес электронной почты.
