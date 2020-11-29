@@ -1865,6 +1865,26 @@ You have three wishes.У тебя есть три желания.
 I am not apologizing.Я не извиняюсь.
 That day i was tired.В тот день я был уставшим.
 Will you invite me to your wedding?Ты пригласишь меня на свою свадьбу?
+--86StateEconomy
+Our national anthem is one hundred fifty years old.Нашему национальному гимну сто пятьдесят лет.
+I admit that we are not progressing.Я признаю, что мы не прогрессируем.
+A civil society is a threat to bribes.Гражданское общество - угроза взяткам.
+The end of poverty in the world is a dream.Конец бедности в мире это мечта.
+We are innocent.Мы невиновны.
+I live in the state of new yorkЯ живу в штате Нью-Йорк.
+Customers usually follow the crowd.Покупатели обычно следуют за толпой.
+The work is progressing well.Работа продвигается хорошо.
+Our mayor is not innocent because he used to take bribes.Наш мэр не невиновен, потому что он раньше брал взятки.
+Do not offer me a bribe.
+The econome is progressing slowly.Экономика развивается медленно.
+Civil wars are always the worst wars.Гражданские войны всегда наихудшие войны.
+Please call the embassy.Пожалуйста, позвоните в посольство.
+I don not know our anthem.
+Do you know what a civil society is?Ты знаешь, что такое гражданское общество?
+The croud goes to the beach.Толпа идёт на этот пляж.
+They live in poverty.Они живут в бедности.
+
+
 --88Goal
 Let me congratulate you on achieving your goal!Позволь мне поздравить тебя с достижением твоей цели!
 You have earned this reward!Вы заслужили эту награду!
