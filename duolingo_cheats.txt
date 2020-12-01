@@ -191,6 +191,22 @@ Do you want the smallest one.Ты хочешь самый маленький?
 My wife is not much happier.Моя жена не намного счастливее.
 is your new friend better than me.Твой новый друг лучше меня?
 our book is old yours is newer.Наша книга - старая, твоя - новее.
+--26GoingTo
+I am going to write her on Saturday.Я собираюсь написать ей в субботу.
+He is going to help them on Wednesday.Он собирается помочь им в среду.
+I am going to fly there on Thursday.я собираюсь лететь туда в четверг
+On Wednesdays.по средам
+Yes We are going to dance today.Да, мы собираемся танцевать сегодня.
+I am not going to play with them.Я не собираюсь с ними играть.
+We are going to read this book on Monday.Мы собираемся читать эту книгу в понедельник.
+He is going to ask me on Wednesday.Он собирается спросить меня в среду.
+He is going to tell her on Monday.Он собирается рассказать ей в понедельник.
+She is going to swim on Tuesday.Она собирается плавать во вторник.
+I am going to ask her on Monday.Я собираюсь спросить её в понедельник.
+On Sunday we are going to play at home.В воскресенье мы собираемся играть дома.
+Is he going to tell her on Saturday.Собирается ли он рассказать ей в субботу?
+I am going to write her on Saturday.Я собираюсь написать ей в субботу.
+He is going to help them on Wednesday.Он собирается помочь им в среду.
 
 --27FutureSimple
 Will we go to swim?Мы пойдём плавать?
