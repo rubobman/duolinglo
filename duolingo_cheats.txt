@@ -257,6 +257,26 @@ She will become an actress soon.
 Will we sleep or will we eat?
 When will we see your future wife?Когда мы увидим твою будущую жену?
 В следующем году я отдам тебе все свои игрушки.
+--29ContinuousMonths
+I was reading while she was sleeping.Я почитал, пока она спала.
+I won't be answering from ten p.m. to seven a.m..Я не буду отвечать с десяти вечера до семи утра.
+In April he will be living with them.В апреле он поживёт с ними.
+She was drinking tea while he was eating his soup.Она пила чай, пока он ел свой суп.
+They will be living with him from April to July.Они поживут с ним с апреля по июль.
+For two weeks, I will be opening one box a day.В течение двух недель я буду открывать одну коробку в день.
+In december we will be opening three new shops.В декабре мы будем открывать три новых магазина.
+My parents were helping us. Мои родители помогали нам.
+Tomorrow she will be sleeping from six to twelve o'clock.Завтра она будет спать с шести до двенадцати часов.
+They won't be playing at five, they will be playing at eleven o'clock.Они не будут играть в пять они будут играть в одиннадцать часов.
+I can not come i am helping my grandfather tonight.Я не могу прийти, я помогаю своему дедушке сегодня вечером.
+From January to April, he will be flying there each week.С Января по Апрель он будет летать туда каждую неделю.
+I will be living there from April to October.Я поживу там с апреля по октябрь.
+In June, we were opening our new shop.В июне мы открывали наш новый магазин
+I am not asking you to help me.Я не прошу тебя помогать мне.
+he will be answering leters from nine a.m. to five p.m.Он будет отвечать на письма с девяти утра до пяти вечера.
+I was not eating meat from may to August.Я не ел мяса с мая по август.
+She will be answering your questions from three to five o'clock.Она будет отвечать на ваши вопросы с трёх до пяти часов.
+She was asking me about you while we were going home.Она расспрашивала меня о тебе, пока мы шли домой.
 
 --31Adverb
 She moves so well.Она двигается так хорошо.
