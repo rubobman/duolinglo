@@ -1802,6 +1802,28 @@ Trains in Spain are very safe.Поезда в Испании очень безо
 We like swimming in that shallow river.Нам нравится плавать в той мелкой реке.
 She likes summer heat.Ей нравится летняя жара.
 It is a musical piece.Это музыкальная пьеса.
+
+--81BuildingsStructures
+How far is the dormitory from the campus?Как далеко находится общежитие от кампуса?
+I like this temple.Мне нравится этот храм.
+This is the oldest mosque in the world.Это самая старая мечеть в мире.
+They build a house.Они строят дом.
+I like this old stone well.Мне нравится этот старый каменный колодец.
+We have an elevator in our house.У нас есть лифт в нашем доме.
+A group of students was in the temple on Saturday.Группа учащихся была в храме в субботу.
+He lives in the dormatory.Он живёт в общежитии.
+This mosque is not on the city map.Этой мечети нет на карте города.
+Is this well very old.Этот колодец очень старый?
+If you go to that street, you will see the theatre.Если вы пойдёте на ту улицу, то увидите театр.
+Наш колодец глубиной в тринадцать ярдов.
+Do you see the synagogue?Ты видишь синагогу?
+Is this the elevator?Это лифт?
+Do you like this dormatory.Тебе нравится это общежитие?
+This sinagogue is white and blue.Эта синагога бело-голубая.
+It is a sinagogue not a mosque.Это синагога, не мечеть.
+He lives in a temple.Он живёт в храме.
+Are they going to build a hotel here.Собираются ли они построить гостиницу здесь?
+
 --83Verbs2/
 He was bitten by wolves.Он был покусан волками.
 My wife is preparing dinner right now.Моя жена готовит ужин прямо сейчас.
@@ -1833,6 +1855,7 @@ She treats me like a king.Она относится ко мне как к кор
 The wind blows every day.Ветер дует ежедневно.
 They rest in the hotel.Они отдыхают в отеле.
 I am digging the sand.Я копаю песок.
+
 --84Driving
 Why are the seats so dirty?Почему сиденья такие грязные?
 This is the rush hour.Это час пик.
