@@ -1722,6 +1722,22 @@ Is this a trap?Это ловушка?
 block the door.Запри дверь.
 The forks are on the plates.Вилки находятся на тарелках.
 Do you have a set of red chairs.У тебя есть набор красных стульев?
+I sell hooks. Я продаю крючки.
+Is this a fish hook.Это рыболовный крючок?
+I need a ticket to Rome.Мне нужен билет в Рим.
+The handle is very hot.Ручка очень горячая.
+I prefer spicy vegetable dishes.Я предпочитаю пряные овощные блюда.
+I will never cook meat in this oven.Я никогда не буду готовить мясо в этой духовке.
+This is Anna's doll.Это Анина кукла.
+He had a collection of hooks of different colors and sizes.У него была коллекция крючков разных цветов и размеров.
+Она потеряла свои ключи от машины.
+Which dish do you like.Какое блюдо ты любишь?
+Бесплатный сыр только в мышеловке.
+I will buy him a ticket.Я куплю ему билет.
+Here are your keys.Вот твои ключи
+My son needs a battery for his machine.Моему сыну нужна батарейка для его машины.
+That is a silver door handle.То - серебряная дверная ручка.
+The handle is very hot.Ручка очень горячая.
 
 --79People2
 Yes I am a prince.Да, я - принц.
