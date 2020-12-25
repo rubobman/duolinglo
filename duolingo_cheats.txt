@@ -1135,6 +1135,12 @@ This is an interesting author.Это интересный автор.
 We are professional lawyers.Мы - профессиональные юристы.
 Our kids should spend more time helping the elderly.Нашим детям стоит проводить больше времени, помогая пожилым.
 Adults wont teenagers to respect them.Взрослые хотят, чтобы подростки уважали их.
+Where are the guests?Где гости?
+Who is the author of the work?Кто автор этой работы?
+My uncle is the author of the book.Мой дядя - автор книги.
+Who is the author of this book?Кто автор этой книги?
+If you have a problem, ask your neighbor for help.Если у вас есть проблема, попросите помощи у вашего соседа.
+He is our most important guest.Он наш самый важный гость.
 
 --64Food1
 I never add carrots to the potato salad.Я никогда не добавляю морковь в картофельный салат.
