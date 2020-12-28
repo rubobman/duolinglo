@@ -1838,6 +1838,7 @@ This mosque is not on the city map.Этой мечети нет на карте 
 Is this well very old.Этот колодец очень старый?
 If you go to that street, you will see the theatre.Если вы пойдёте на ту улицу, то увидите театр.
 Наш колодец глубиной в тринадцать ярдов.
+Будет ли он работать актёром в театре?
 Do you see the synagogue?Ты видишь синагогу?
 Is this the elevator?Это лифт?
 Do you like this dormatory.Тебе нравится это общежитие?
@@ -1845,7 +1846,21 @@ This sinagogue is white and blue.Эта синагога бело-голубая
 It is a sinagogue not a mosque.Это синагога, не мечеть.
 He lives in a temple.Он живёт в храме.
 Are they going to build a hotel here.Собираются ли они построить гостиницу здесь?
-
+They are not architects.Они не архитекторы.
+This is the oldest mosque in the world.Это самая старая мечеть в мире.
+My wife's sister is an architect.Сестра моей жены - архитектор.
+I live in the tower.Я живу в башне.
+She is an architect, and her husband is an engineer.Она - архитектор, а её муж - инженер.
+It is the worst building.Это худшее здание.
+I live in that building.Я живу в том здании.
+She is in the castle.Она в замке.
+Is this architect expansive.Этот архитектор дорогой?
+In the castle, she wears a pink dress.In the castle, she wears a pink dress.
+It is the worst building.Это худшее здание.
+Where is the railroad station?Где железнодорожная станция?
+That castle is white.Тот замок белый.
+The students live in those green buildings.
+They build a house.Они строят дом.
 --83Verbs2/
 He was bitten by wolves.Он был покусан волками.
 My wife is preparing dinner right now.Моя жена готовит ужин прямо сейчас.
