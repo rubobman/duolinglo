@@ -1744,7 +1744,14 @@ Here are your keys.Вот твои ключи
 My son needs a battery for his machine.Моему сыну нужна батарейка для его машины.
 That is a silver door handle.То - серебряная дверная ручка.
 The handle is very hot.Ручка очень горячая.
-
+The meat is already in the oven.Мясо уже в духовке.
+It would be better to buy our own lock.Было бы лучше купить наш собственный замок.
+I think that the lock and the door handle were broken.Я думаю, что замок и дверная ручка были сломаны.
+They were covered in soap bubbles.Они были покрыты мыльными пузырями.
+I have only one towel.У меня только одно полотенце.
+Maybe these bubbles are dangerous.Может быть, эти пузыри опасны.
+I need a battery for my clock.Мне нужна батарейка для моих часов.
+This clock does not work.Эти часы не работают.
 --79People2
 Yes I am a prince.Да, я - принц.
 He is a strong leader.Он - сильный лидер.
