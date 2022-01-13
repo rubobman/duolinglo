@@ -1438,8 +1438,7 @@ This tree is very tall.Это дерево очень высокое.
 My sister is watering the trees.Моя сестра поливает деревья.
 ---71Baby
 This makes me cry.Это заставляет меня плакать.
-She was not old enough to give her solid food.Она была не достаточно взрослой, чтобы давать ей твёрдую пищу.
-Our son has always slept in his own bed.Наш сын всегда спал в своей собственной кровати.
+She was not old enough to give her solid food.Она не была достаточно взрослой, чтобы давать ей твёрдую пищу.
 My nephew is very calm, he never cries.Мой племянник - очень спокойный, он никогда не кричит.
 I would not know what to do with crying twins.Я бы не знала, что делать с плачущими близнецами.
 Change his diaper, and I will feed him.Поменяй его подгузник, и я покормлю его.
@@ -2056,3 +2055,53 @@ What is your next step?Какой твой следующий шаг?
 This success is the result of your efforts.Этот успех является результатом ваших усилий.
 Praise yourself, you deserve it!Похвалите себя, вы заслуживаете этого!
 Thank you for your efforts, we are so happy for you!Спасибо за ваши усилия, мы так счастливы за вас!
+
+-- 
+The foxes sometimes licked or bit each other.
+do not jump you might fall Не прыгай, ты можешь упасть.
+We'll thank her later.Мы поблагодарим её позже.
+She was not old enough to give her solid food.Она не была достаточно взрослой, чтобы давать ей твёрдую пищу.
+She is a very shy girl.Она очень застенчивая девочка.
+Is it a dangerous disease?это опасное заболевание
+My wife bought me a silk tie.Жена купила мне шелковый галстук.
+Babies can chew quite well even without teeth.Младенцы могут жевать довольно хорошо даже без зубов.
+The mayor eats with the judge in our restaurant.Мэр ест с судьей в нашем ресторане.
+My intuition tells me nothing.Моя интуиция не говорит мне ничего.
+The foxes sometimes licked or bit each other.Лисы иногда лизали или кусали друг друга.
+He eats snails.Он ест улиток.
+there is a wide and shallow river near our house.Около нашего дома есть широкая и мелкая река.
+He is worried about something else.Он обеспокоен чем-то другим.
+I know that young surgeon.Я знаю того молодого хирурга.
+He fell off the horse.Он упал с лошади.
+I still don't have any wrinkles.У меня до сих пор нет морщин.
+Silk is more expensive than cotton.Шёлк дороже, чем хлопок.
+The boy drank from a yellow glass Мальчик попил из жёлтого стакана.
+This flower is a type of rose.Этот цветок является разновидностью розы.
+Midwives help women during pregnancy and labor.Акушерки помогают женщинам во время беременности и родов.
+It is better not to worry.Лучше не беспокоиться.
+Do not make any sudden moves.Не делайте никаких внезапных ходов.
+One member of that group always answers me.Один член той группы всегда отвечает мне.
+Nobody listened to me.Никто меня не слушал.
+she has a musical voice.У неё музыкальный голос.
+I think he knows the truth.Я думаю, что он знает правду.
+I respect elderly people/Я уважаю старших.
+She thanked him yesterday.Она поблагодарила его вчера.
+Yes i am bored too
+His sixth sense is his intuition.Его шестое чувство - его интуиция.
+Whales do not swim in such shallow water.Киты не плавают в такой мелкой воде.
+Are you drawing a snail?Ты рисуешь улитку?
+I listened to the song twice.Я послушал песню дважды.
+We will thank her later.Мы поблагодарим ее позже.
+The surgeons are here/Хирурги здесь.
+It does not matter.Это не имеет значения.
+They suddenly appeared right in front of me.Они внезапно появились прямо передо мной.
+He was bitten by wolves.Он был покусан волками.
+The boy drank from a yellow glass.Мальчик попил из жёлтого стакана.
+No, the bone is not broken.Нет, кость не сломана.
+My intuition tells me nothing/Моя интуиция не говорит мне ничего.
+He fell off the horse.Он упал с лошади.
+Suddenly I heard a voice of a girl.Вдруг я услышал голос девочки.
+What is intuition?Что такое интуиция?
+It does not matter./
+Yes, your son has head lice.Да, у вашего сына есть головные вши.
+I listen to the songs/Я слушаю эти песни.
